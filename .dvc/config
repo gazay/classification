@@ -1,0 +1,4 @@
+['remote "origin"']
+url = /home/gazay/dvc-remote/catalyst_demo
+[core]
+remote = origin
